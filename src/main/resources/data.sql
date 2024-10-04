@@ -1,0 +1,8 @@
+INSERT INTO country(id, name) VALUES (1, 'USA')
+INSERT INTO country(id, name) VALUES (2, 'UK')
+INSERT INTO country(id, name) VALUES (3, 'Brazil')
+INSERT INTO country(id, name) VALUES (4, 'China')
+INSERT INTO country(id, name) VALUES (5, 'Antarctica')
+INSERT INTO country(id, name) VALUES (6, 'Japan')
+INSERT INTO country(id, name) VALUES (7, 'France')
+INSERT INTO country(id, name) VALUES (8, 'SamLand')
